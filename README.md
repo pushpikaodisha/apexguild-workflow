@@ -80,3 +80,5 @@ The login screen features instant role-switching buttons to test the entire life
 - **Engineer**: Pushpika Odisha
 - **Email**: pushpikaodisha.dev@gmail.com
 - **GitHub**: [@pushpikaodisha](https://github.com/pushpikaodisha)
+
+<!-- core: production-grade -->

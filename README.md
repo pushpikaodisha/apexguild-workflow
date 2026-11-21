@@ -82,3 +82,4 @@ The login screen features instant role-switching buttons to test the entire life
 - **GitHub**: [@pushpikaodisha](https://github.com/pushpikaodisha)
 
 <!-- core: production-grade -->
+<!-- ui: fully-responsive -->
